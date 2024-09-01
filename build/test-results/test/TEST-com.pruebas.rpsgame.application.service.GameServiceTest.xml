@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pruebas.rpsgame.application.service.GameServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-01T04:42:14" hostname="MacBook-Pro-de-Liliana.local" time="0.309">
+  <properties/>
+  <testcase name="makeMove_shouldUpdateGameAndPlayerScore()" classname="com.pruebas.rpsgame.application.service.GameServiceTest" time="0.294"/>
+  <testcase name="createGame_shouldCreateNewGame()" classname="com.pruebas.rpsgame.application.service.GameServiceTest" time="0.008"/>
+  <testcase name="makeMove_shouldThrowGameNotFoundException()" classname="com.pruebas.rpsgame.application.service.GameServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

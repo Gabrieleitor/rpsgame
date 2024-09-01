@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pruebas.rpsgame.infrastructure.adapters.input.LeaderboardControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-01T04:42:15" hostname="MacBook-Pro-de-Liliana.local" time="0.011">
+  <properties/>
+  <testcase name="getTopPlayers_shouldReturnLeaderboard()" classname="com.pruebas.rpsgame.infrastructure.adapters.input.LeaderboardControllerTest" time="0.011"/>
+  <system-out><![CDATA[2024-08-31T23:42:15.240-05:00  INFO 6782 --- [rpsgame] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.pruebas.rpsgame.infrastructure.adapters.input.LeaderboardControllerTest]: LeaderboardControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-08-31T23:42:15.252-05:00  INFO 6782 --- [rpsgame] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.pruebas.rpsgame.RpsgameApplication for test class com.pruebas.rpsgame.infrastructure.adapters.input.LeaderboardControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.3)
+
+2024-08-31T23:42:15.284-05:00  INFO 6782 --- [rpsgame] [    Test worker] c.p.r.i.a.i.LeaderboardControllerTest    : Starting LeaderboardControllerTest using Java 17.0.12 with PID 6782 (started by liliana in /Users/liliana/Documents/proyectos/java/rpsgame)
+2024-08-31T23:42:15.285-05:00  INFO 6782 --- [rpsgame] [    Test worker] c.p.r.i.a.i.LeaderboardControllerTest    : No active profile set, falling back to 1 default profile: "default"
+2024-08-31T23:42:15.499-05:00  INFO 6782 --- [rpsgame] [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-08-31T23:42:15.499-05:00  INFO 6782 --- [rpsgame] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-08-31T23:42:15.500-05:00  INFO 6782 --- [rpsgame] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2024-08-31T23:42:15.509-05:00  INFO 6782 --- [rpsgame] [    Test worker] c.p.r.i.a.i.LeaderboardControllerTest    : Started LeaderboardControllerTest in 0.251 seconds (process running for 6.702)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
